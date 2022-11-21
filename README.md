@@ -1,4 +1,4 @@
-# ELYZE  OU LE “TINDER” DE LA PRÉSIDENTIELLE
+# **ELYZE  OU LE “TINDER” DE LA PRÉSIDENTIELLE**
 # La vie sociale des données - Enquête collective
 ## Menée par Mathilde Frelon, Mateo, Margot et Cathy Alves
 ### Bienvenue les copains !
