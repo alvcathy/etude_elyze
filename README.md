@@ -10,5 +10,6 @@ En créant cette application, les fondateurs ont pour ambition de réconcilier l
 
 L'application est lancée le 2 janvier 2022 et son code source est rendu public le 20 janvier. Elle connaît un succès immédiat et se trouve en tête des téléchargements en France en janvier 2022 avec plus d’un million d’utilisateurs en moins de deux semaines et deux millions de téléchargements mi-février. François Mari, cofondateur de l'application, nous témoigne à ce sujet de leur surprise face à cet engouement massif. En effet, il explique n’avoir mis aucun moyen dans la communication de ce projet et d’avoir simplement compté sur « le partage de l’application avec leur copains ». 
 
+![IMG_6491](https://user-images.githubusercontent.com/115630265/203279535-929ce1e3-07d9-44b0-832a-57942053708e.PNG)
 
 
