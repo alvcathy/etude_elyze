@@ -3,13 +3,15 @@
 
 ### Cette enquête, menée par Mathilde Frelon, Mateo Angillis, Margot Tasseau et Cathy Alves, porte sur l'étude des données collectées et de leurs enjeux à l'issue de l'usage de l'application Elyze, notamment lors des élections présidentielles de 2022. 
 
-<img src="https://images.rtl.fr/~c/2000v2000/rtl/www/1482439-l-application-elize-veut-amener-les-jeunes-a-se-mobiliser-lors-du-scrutin-predidentiel.png">
-
 Selon l’Insee, en 2017, moins de deux jeunes sur dix (entre 18 et 29 ans et inscrits sur listes électorales) avaient voté à tous les tours des élections législatives et présidentielle. Le « désamour » de la jeunesse pour la politique est bien réel et plus largement l’abstention des jeunes représente une menace pour la démocratie. 
+
+<img src="https://www.planetegrandesecoles.com/wp-content/uploads/2022/02/Sans-titre-5-850x560.png">
 
 Grégoire Cazcarra, étudiant à l’ESCP et François Mari, étudiant à HEC Montréal font ce constat eux-mêmes en interrogeant leurs amis. Comme nous le confie François, « neuf jeunes sur dix n’ont pas voté aux régionales en 2021 ». Le constat est simple, il y a un manque d’engagement et d’investissement de la part des jeunes en politique. Les deux étudiants se saisissent de ce sujet et tentent d’y apporter une solution en créant l’application mobile Elyze. Ils sont rejoints par la suite par Gaspard Guermonprez notamment et une trentaine de bénévoles du mouvement apolitique Les Engagés, luttant contre l’abstention. Le nom de l’application est inspiré d’une jeune femme, Élise, qui hésitait à voter pour les élections, tout en faisant un clin d’œil évident à l’Élysée. 
 
 En créant cette application, les fondateurs ont pour ambition de réconcilier les jeunes avec la politique et susciter de l’intérêt pour le scrutin d’avril 2022. Dans un contexte politique où il est difficile de trouver des repères, le premier objectif est une vulgarisation de l’information. Afin d’aider les jeunes à appréhender l’importante masse d’information à laquelle ils sont confrontés pendant la campagne électorale, Elyze propose des programmes synthétisés, des données accessibles et compréhensibles par tous, afin de les aider à sortir de ce “brouillard politique” . Ce travail de simplification est un gain de temps précieux pour les jeunes qui pourraient éprouver une réticence à aller voter par manque de temps pour se renseigner sur chacun des candidats. L’application propose également de comparer ses positions avec les propositions des candidats, lui permettant ainsi de mieux se situer dans le paysage politique, d’avoir des indices sur le candidat qui se rapproche le plus de ses idées. 
+
+<img src="https://images.rtl.fr/~c/2000v2000/rtl/www/1482439-l-application-elize-veut-amener-les-jeunes-a-se-mobiliser-lors-du-scrutin-predidentiel.png">
 
 L'application est lancée le 2 janvier 2022 et son code source est rendu public le 20 janvier. Elle connaît un succès immédiat et se trouve en tête des téléchargements en France en janvier 2022 avec plus d’un million d’utilisateurs en moins de deux semaines et deux millions de téléchargements mi-février. François Mari, cofondateur de l'application, nous témoigne à ce sujet de leur surprise face à cet engouement massif. En effet, il explique n’avoir mis aucun moyen dans la communication de ce projet et d’avoir simplement compté sur « le partage de l’application avec leur copains ». 
 
