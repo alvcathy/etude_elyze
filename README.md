@@ -27,7 +27,7 @@ Ces recherches nous ont permis de faire une analyse plus précise de la base de 
 
 ### Un concept innovant pensé par des jeunes et pour des jeunes
 
-<img src="https://media.sudouest.fr/10501577/1200x750/bcln5t2gj5gtxjs5cky6dhuvhm.jpg?v=1649692833">
+<img src="https://resize-elle.ladmedia.fr/rcrop/1098,768/img/var/plain_site/storage/images/societe/news/j-ai-teste-elyze-l-application-qui-vous-matche-avec-un-candidat-a-la-presidentielle-3981625/95931410-1-fre-FR/J-ai-teste-Elyze-l-application-qui-vous-matche-avec-un-candidat-a-la-presidentielle.jpg">
 
 L’idée c’est un outil qui parle aux jeunes générations. Pour ce faire, les fondateurs, aidés par de nombreux bénévoles, pensent l’application au travers des codes de la nouvelle génération, avec une interface ludique, colorée et intuitive. Si Elyze prend rapidement le surnom de « Tinder de la présidentielle » c’est que son fonctionnement qui permet de faire matcher les utilisateurs avec des candidats est largement inspiré de l’application de rencontres. L’application reprend en effet le système de swipe qui fait la popularité de Tinder. 
 
