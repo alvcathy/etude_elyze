@@ -86,6 +86,10 @@ La première faille qu’à relevé Mathis Hammel, expert en cybersécurité, fu
 
 La deuxième faille était présente au sein du code source où il y avait des problèmes de sécurité, le même expert a pu ainsi apparaître en tant que candidat à la présidentielle. Ces deux bugs ont eu d’énormes retombées médiatiques et c’est dans ce contexte que plusieurs candidats dont Jean-Luc Mélenchon se sont emparés de ces problèmes de codages pour remettre en question la neutralité politique de l’application. Face à toutes ces polémiques, les deux entrepreneurs ont tout d’abord résolu les différents problèmes techniques. Puis, ils ont ouvert une adresse mail pour que les équipes de campagnes ainsi que les utilisateurs puissent apporter des changements au niveau de la formulation des différents éditos pour que cet outil soit le plus neutre et démocratique possible.  
 
+<blockquote class="twitter-tweet">
+  <a href="https://twitter.com/StephaneMauran/status/1481282773193306114?ref_src=twsrc%5Etfw%7Ctwcamp%5Etweetembed%7Ctwterm%5E1481289829677682693%7Ctwgr%5E147507ee3c88aa0e23acf21c86b699988b93c81a%7Ctwcon%5Es3_&ref_url=https%3A%2F%2Fwww.francetvinfo.fr%2Felections%2Fneutralite-politique-donnees-personnelles-quatre-questions-sur-lapplication-mobile-elyze-le-tinder-de-l-election-presidentielle_4922105.html"></a>
+</blockquote> 
+
 
 ### Une gestion controversée des données personnelles
 
