@@ -66,7 +66,7 @@ Cependant, même si cette dernière a été fortement utilisée, nous pouvons vo
 
 Une chose est sûre, si Elyze a permis à de nombreux jeunes de découvrir la politique et ses acteurs lors des dernières élections présidentielles, cet engouement sera moindre lors des prochaines élections comme le souligne notre sondage. 
 
-## **2.Critiques & limites** <img src="https://freepngimg.com/download/icon/1000475-woman-saying-no-emoji-[free-download-ios-emojis]-free-icon.png">
+## **2.Critiques & limites** 🙅‍♀️
 
 ### “Une simplification des programmes qui reflète le mal être des électeurs”
 
