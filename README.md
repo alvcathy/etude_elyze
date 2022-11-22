@@ -49,6 +49,8 @@ Au cours de notre entretien avec François Mari, nous avons pu lui demander de m
 
 Mais pour assurer l’efficacité de ce système de points, une des parties les plus ardues dans la conception de l’application a été le travail de collecte des informations en amont et le travail éditorial par la suite pour synthétiser les propositions pour les rendre à la fois compréhensibles par tous mais également neutres dans leurs formulations. Les bénévoles faisant partie du collectif d’Elyze se sont chargés de cette partie, et ont ainsi rédigé chaque proposition organisée en un titre et un petit texte explicatif (« plus d’info »), en veillant à ce qu’aucun candidat ne soit avantagé. Des fiches par candidats étaient également visibles sur l’application, avec quelques informations personnelles sur eux comme leur âge, leurs études ou même des anecdotes plus privées (série préférée). 
 
+<img src="https://media.lesechos.com/api/v1/images/view/61d6856dd286c223ee46dd35/1280x720/070677924205-web-tete.jpg">
+
 Pour que le système de point soit viable il fallait une garantie de neutralité des questions et une représentation équitable de chaque candidat. Et cet important travail de synthétisation et d’éditorialisation a contribué à la réussite de l’application. À une époque où le temps d’attention est de plus en plus bas, Elyze sait se faire concise et claire pour répondre aux attentes des jeunes. Les jeunes qui n’ont plus le courage de lire de longs articles ou programmes, se retrouvent ici face à une information qui ne leur prend que quelques secondes à saisir. 
 
 ### Une application pérenne qui s’adapte à chaque élection
