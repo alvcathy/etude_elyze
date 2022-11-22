@@ -86,7 +86,9 @@ La première faille qu’à relevé Mathis Hammel, expert en cybersécurité, fu
 
 La deuxième faille était présente au sein du code source où il y avait des problèmes de sécurité, le même expert a pu ainsi apparaître en tant que candidat à la présidentielle. Ces deux bugs ont eu d’énormes retombées médiatiques et c’est dans ce contexte que plusieurs candidats dont Jean-Luc Mélenchon se sont emparés de ces problèmes de codages pour remettre en question la neutralité politique de l’application. Face à toutes ces polémiques, les deux entrepreneurs ont tout d’abord résolu les différents problèmes techniques. Puis, ils ont ouvert une adresse mail pour que les équipes de campagnes ainsi que les utilisateurs puissent apporter des changements au niveau de la formulation des différents éditos pour que cet outil soit le plus neutre et démocratique possible.  
 
+<p align="center">
 <blockquote class="twitter-tweet"><p lang="fr" dir="ltr">Encore un coup tordu l&#39;appli <a href="https://twitter.com/hashtag/Elyze?src=hash&amp;ref_src=twsrc%5Etfw">#Elyze</a>... À qui profite ce mauvais coup ? Devinez... <a href="https://t.co/QMvXaL2LTF">https://t.co/QMvXaL2LTF</a></p>&mdash; Jean-Luc Mélenchon (@JLMelenchon) <a href="https://twitter.com/JLMelenchon/status/1481289829677682693?ref_src=twsrc%5Etfw">January 12, 2022</a></blockquote> <script async src="https://platform.twitter.com/widgets.js" charset="utf-8"></script>
+    </p>
 
 
 ### Une gestion controversée des données personnelles
