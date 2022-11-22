@@ -71,9 +71,16 @@ Cependant, même si cette dernière a été fortement utilisée, nous pouvons vo
 <p align="center">
   <img src="https://user-images.githubusercontent.com/115630275/203395517-0b9cad1a-c9cc-4e4b-b44a-dff3e3a1c5b1.png">
   </p>
-    
- 
-[Link](https://docs.google.com/forms/d/1emaGUTLBJRohZzPKVLnno1YwyJpJRufvjgVNAa40xxA/edit#responses) and ![Image](https://user-images.githubusercontent.com/115630275/203407127-e7556d12-6694-4ca2-bff0-0022fa24ea6d.png)
+
+<p align="center">
+  <img src="https://user-images.githubusercontent.com/115630275/203395517-0b9cad1a-c9cc-4e4b-b44a-dff3e3a1c5b1.png">
+  </p>
+
+<p align="center">
+  <img src="https://user-images.githubusercontent.com/115630275/203395517-0b9cad1a-c9cc-4e4b-b44a-dff3e3a1c5b1.png">
+  </p>
+   
+[Link](https://docs.google.com/forms/d/1emaGUTLBJRohZzPKVLnno1YwyJpJRufvjgVNAa40xxA/edit#responses)
 
 Une chose est sûre, si Elyze a permis à de nombreux jeunes de découvrir la politique et ses acteurs lors des dernières élections présidentielles, cet engouement sera moindre lors des prochaines élections comme le souligne notre sondage. 
 
