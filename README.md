@@ -25,7 +25,7 @@ Afin de mieux comprendre les enjeux de cette base de données, nous avons interr
 
 Ces recherches nous ont permis de faire une analyse plus précise de la base de données Elyze, que nous avons tenté de retranscrire ici au travers de trois grandes parties. Tout d’abord nous verrons le fonctionnement de cette application et ses objectifs. Nous étudierons ensuite quelles sont les limites de cette application et les critiques auxquelles elle a dû faire face. Enfin nous nous intéresserons aux données qui se cachent derrière cette application et leur visualisation. 
 
-## **1. Jeu de données et objectifs** :muscle:
+## **1. Jeu de données et objectifs** 💪
 
 ### Un concept innovant pensé par des jeunes et pour des jeunes
 
@@ -119,7 +119,7 @@ Une étude américaine datant de 2000 (L. Sweeney, « Simple Demographics Often 
 
 La CNIL s’en est tenue à ces explications, et pour endiguer la polémique et apaiser leurs détracteurs, les deux cofondateurs de Elyze ont alors pris la décision d’effacer la totalité du dataset. Une nouvelle version de l’application ne récoltant plus d’autres données que les « swipes » a été mise en ligne et le code source de l’application a été rendu public. Cette décision était d’autant plus judicieuse que Grégoire Cazcarra a rejoint le gouvernement en la qualité de conseiller d’Olivier Véran, laissant potentiellement soupçonner un conflit d'intérêt.
 
-## **3. Données et visualisation** :mag:
+## **3. Données et visualisation** 🔍
 
 ### Vers un meilleur jeu de données
 
