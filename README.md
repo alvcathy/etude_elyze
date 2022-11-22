@@ -25,7 +25,7 @@ Afin de mieux comprendre les enjeux de cette base de données, nous avons interr
 
 Ces recherches nous ont permis de faire une analyse plus précise de la base de données Elyze, que nous avons tenté de retranscrire ici au travers de trois grandes parties. Tout d’abord nous verrons le fonctionnement de cette application et ses objectifs. Nous étudierons ensuite quelles sont les limites de cette application et les critiques auxquelles elle a dû faire face. Enfin nous nous intéresserons aux données qui se cachent derrière cette application et leur visualisation. 
 
-## **1. Jeu de données et objectifs**
+## **1. Jeu de données et objectifs** :muscle:
 
 ### Un concept innovant pensé par des jeunes et pour des jeunes
 
@@ -59,6 +59,7 @@ Mais si cette application qui a été pensée pour les jeunes semble être un ca
 ### C’est un match ? 
 
 3 000 000… 3 000 000 c’est le nombre d’utilisateurs qui ont téléchargé l’application Elyze. Mais qui sont ses utilisateurs ? Pourquoi l'ont-ils utilisé ? Et à quelle fin ? Est-ce que le résultat a influencé leurs votes ? Que pensent-ils de l'application? Pour répondre à ces questionnements, nous avons interrogé notre communauté. 
+
 
 Si la base de données a finalement été effacée en raison de la pression médiatique, nous savons que cette application a été majoritairement employée par de jeunes utilisateurs. Cette dernière a été fortement recommandée sur les réseaux sociaux grâce notamment au partage, par bouche à oreille ou encore par les médias. L’utilisation du swipe et la simplicité de l’application ont permis à de nombreux jeunes qui ne se sentaient pas politisés de s’intéresser à ce sujet comme le souligne François Marie lors de l’entretien, il a d’ailleurs reçu des centaines de remerciements à ce sujet. 
 
