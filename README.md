@@ -94,7 +94,7 @@ Une étude américaine datant de 2000 (L. Sweeney, « Simple Demographics Often 
 
 La CNIL s’en est tenue à ces explications, et pour endiguer la polémique et apaiser leurs détracteurs, les deux cofondateurs de Elyze ont alors pris la décision d’effacer la totalité du dataset. Une nouvelle version de l’application ne récoltant plus d’autres données que les « swipes » a été mise en ligne et le code source de l’application a été rendu public. Cette décision était d’autant plus judicieuse que Grégoire Cazcarra a rejoint le gouvernement en la qualité de conseiller d’Olivier Véran, laissant potentiellement soupçonner un conflit d'intérêt.
 
-# **3. Données et visualisation**
+## **3. Données et visualisation**
 
 ### Vers un meilleur jeu de données
 
