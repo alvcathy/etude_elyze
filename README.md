@@ -51,6 +51,8 @@ Pour que le système de point soit viable il fallait une garantie de neutralité
 
 ### Une application pérenne qui s’adapte à chaque élection
 
+<img src="https://www.humanite.fr/sites/default/files/images/299601.HR.jpg">
+
 Si l’application a su être en grande partie efficace sur son fonctionnement pour la présidentielle de 2022, sa force réside également dans sa possible déclinaison à l’infini pour chacune des futures élections. Au cours de notre entretien avec François, il nous a expliqué que l’application avait simplement été « adaptée » pour le second tour puis pour les législatives en changeant les candidats par les partis politiques, mais sans que celle-ci n’ait nécessité de changements techniques majeurs à part l’interface. 
 Mais si cette application qui a été pensée pour les jeunes semble être un carton plein avec un nombre impressionnant de téléchargements et un fonctionnement qui a su prouver son efficacité, que pensent les utilisateurs derrière leur écran ? 
 
