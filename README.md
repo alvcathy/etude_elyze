@@ -1,4 +1,4 @@
-# **ELYZE  OU LE “TINDER” DE LA PRÉSIDENTIELLE**
+# **ELYZE  OU LE “TINDER” DE LA PRÉSIDENTIELLE** 👩‍❤️‍👩
 # _La vie sociale des données - Enquête collective_
 
 ### Cette enquête, menée par Mathilde Frelon, Mateo Angillis, Margot Tasseau et Cathy Alves, porte sur l'étude des données collectées et de leurs enjeux à l'issue de l'usage de l'application Elyze, notamment lors des élections présidentielles de 2022. 
