@@ -67,7 +67,7 @@ Cependant, même si cette dernière a été fortement utilisée, nous pouvons vo
 
 Une chose est sûre, si Elyze a permis à de nombreux jeunes de découvrir la politique et ses acteurs lors des dernières élections présidentielles, cet engouement sera moindre lors des prochaines élections comme le souligne notre sondage. 
 
-## **2.Critiques & limites**
+## **2.Critiques & limites** :no_good_woman:
 
 ### “Une simplification des programmes qui reflète le mal être des électeurs”
 
@@ -120,7 +120,7 @@ Une étude américaine datant de 2000 (L. Sweeney, « Simple Demographics Often 
 
 La CNIL s’en est tenue à ces explications, et pour endiguer la polémique et apaiser leurs détracteurs, les deux cofondateurs de Elyze ont alors pris la décision d’effacer la totalité du dataset. Une nouvelle version de l’application ne récoltant plus d’autres données que les « swipes » a été mise en ligne et le code source de l’application a été rendu public. Cette décision était d’autant plus judicieuse que Grégoire Cazcarra a rejoint le gouvernement en la qualité de conseiller d’Olivier Véran, laissant potentiellement soupçonner un conflit d'intérêt.
 
-## **3. Données et visualisation**
+## **3. Données et visualisation** :mag:
 
 ### Vers un meilleur jeu de données
 
