@@ -12,7 +12,7 @@ L'application est lancée le 2 janvier 2022 et son code source est rendu public 
 
 Leur présence et leur investissement sur les réseaux a également largement contribué à la propagation du projet avec un important repartage de leur premier post Instagram. Grâce à l’implication des bénévoles qui en ont parlé autour d’eux via les réseaux sociaux, l’application est rapidement connue par plusieurs milliers de personnes et c’est le début de sa popularité. 
 
-<img src="https://user-images.githubusercontent.com/115630265/203279535-929ce1e3-07d9-44b0-832a-57942053708e.PNG" width="250">
+            <img src="https://user-images.githubusercontent.com/115630265/203279535-929ce1e3-07d9-44b0-832a-57942053708e.PNG" width="250">
 
 Les médias interviennent également, parmi les premiers, le magazine Madmoizelle et l’émission de télévision C à vous (une interview de dernière minute qui aura coupé François dans son diner avec sa mamie, obligé de se rendre en courant aux Invalides).  Et puis rapidement les deux étudiants enchaînent les plateaux : le JT de TF1, France 2, CNews, etc. 
 
