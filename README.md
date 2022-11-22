@@ -188,9 +188,11 @@ Cette décision de recourir à un outil de la CEDP - et donc, un outil dont l’
 XXX COMPLETER XXX
 
 
+## ***Merci**
 
-
-
+<p align="center">
+  <img src="https://user-images.githubusercontent.com/115630275/203424911-86d025ff-0b67-4ffb-a64e-8a6a2e0337ad.jpg">
+  </p>
 
 
 
