@@ -2,6 +2,8 @@
 # _La vie sociale des données - Enquête collective_
 ### Cette enquête, menée par Mathilde Frelon, Mateo Angillis, Margot Tasseau et Cathy Alves, porte sur l'étude des données collectées et de leurs enjeux à l'issue de l'usage de l'application Elyze, notamment lors des élections présidentielles de 2022. 
 
+<img src="https://images.rtl.fr/~c/2000v2000/rtl/www/1482439-l-application-elize-veut-amener-les-jeunes-a-se-mobiliser-lors-du-scrutin-predidentiel.png"
+
 Selon l’Insee, en 2017, moins de deux jeunes sur dix (entre 18 et 29 ans et inscrits sur listes électorales) avaient voté à tous les tours des élections législatives et présidentielle. Le « désamour » de la jeunesse pour la politique est bien réel et plus largement l’abstention des jeunes représente une menace pour la démocratie. 
 
 Grégoire Cazcarra, étudiant à l’ESCP et François Mari, étudiant à HEC Montréal font ce constat eux-mêmes en interrogeant leurs amis. Comme nous le confie François, « neuf jeunes sur dix n’ont pas voté aux régionales en 2021 ». Le constat est simple, il y a un manque d’engagement et d’investissement de la part des jeunes en politique. Les deux étudiants se saisissent de ce sujet et tentent d’y apporter une solution en créant l’application mobile Elyze. Ils sont rejoints par la suite par Gaspard Guermonprez notamment et une trentaine de bénévoles du mouvement apolitique Les Engagés, luttant contre l’abstention. Le nom de l’application est inspiré d’une jeune femme, Élise, qui hésitait à voter pour les élections, tout en faisant un clin d’œil évident à l’Élysée. 
