@@ -84,6 +84,8 @@ Les créateurs et les utilisateurs pouvaient considérer que les données géné
 
 Nous avons interrogé  Adélaïde Zulfikarpasic, la directrice générale de BVA France, elle même intéressée par les problématiques d’abstention ou de votes blanc et autrice de « Le vote blanc : abstention civique ou expression politique ? », Revue française de science, 2001, ou encore « Les Français sur le fil de l’engagement » L’Aube, Fondation Jean-Jaurès, 2022. Elle nous a confié que XXX COMPLETER XXX
 
+![Une gestion controversée des données personnelles](https://user-images.githubusercontent.com/115630265/203342231-ef2a708e-7eb1-423a-b654-55b4054ea011.png)
+
 En janvier dernier, alertée par des internautes quant à l’existence de ce jeu de données massif, la CNIL (Commission Nationale de l’Information et des Libertés) a examiné son fonctionnement en détail indiquant qu’elle se réservait le droit de faire usage de ses pouvoirs répressifs. La commission a également déclaré à l’AFP que « de manière générale, ce type d’applications doit prévoir des garanties fortes pour protéger les données de ses utilisateurs ». 
 
 Les deux créateurs n’ont dans un premier temps pas été notifiés par l’organisme et l’ont appris en lisant Le Monde. Le principal questionnement était de savoir si l’application respectait ou non le RGPD (Règlement Général sur la Protection des Données). En effet, il stipule qu’en principe, la collecte des données révélant les opinions politiques est interdite, sauf si le consentement explicite des personnes est recueilli - ce qui a priori était le cas. 
