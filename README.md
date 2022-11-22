@@ -134,7 +134,7 @@ L’autre principe à respecter dans le cas de la collecte de données sensibles
 
 Cette idée de suivre la méthode AIPD (Analyse d’Impact sur la Protection des Données), développée par la CNIL, peut sembler être une solution pertinente pour Elyze. De fait, cette méthode consiste pour une organisation à recourir à l’outil PIA, pensé par la Commission nationale de l'informatique et des libertés, pour traiter les données de ses utilisateurs. Le logiciel open source PIA propose en effet une interface qui sécurise et centralise la collecte, tout en facilitant le traitement de données telles que prévues par la réglementation RGPD. Comme l’indique la CNIL, ce logiciel destiné est adaptable à tout écosystème informatique: il pourra en effet être ajouté à des fonctionnalités ou intégré à des outils déjà disponibles en interne (par exemple, un back office que pourrait construire l’équipe d’Elyze).
 
-METTRE IMAGE
+![outilpia](https://user-images.githubusercontent.com/115630265/203344269-ebf8551d-9163-4668-8da9-a5e387972d70.png)
 
 Recourir à cet outil qui représenterait non seulement un moyen pour l’équipe d’Elyze de pouvoir gérer les dizaines gigas de données que l’application pourra générer, tout en gagnant la confiance des utilisateurs et des potentiels détracteurs de l’application, qui seront informés sur le fait que leurs données jugées sensibles seront certes collectées, mais ceci dans un logiciel développé et encadré par l’unique autorité française chargée de la protection de leurs données, la CNIL.
 
