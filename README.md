@@ -183,7 +183,7 @@ Par ailleurs, l’accès aux données recueillies sur l’outil PIA serait autor
 
 Cette décision de recourir à un outil de la CEDP - et donc, un outil dont l’autorité se restreint au règlement européen - signifie que le logiciel PIA pourrait être utilisé dans les pays membres de l’UE dans lequel s’applique la RGPD. Cependant, il sera nécessaire de s’adapter aux différentes réglementations des pays hors UE dans lesquelles François Mari, Grégoire Cazcarra et leur équipe souhaiteront implanter l’application Elyze. 
 
-## **Conclusion** 
+## **Conclusion** 💃
 
 Grâce à nos lectures, notre sondage  mais surtout nos entretiens privilégiés nous avons pu appréhender l’application Elyze sous de multiples angles. Nous avons pu retracer l’histoire de ce projet, son ambition, ses valeurs. Mais nous avons également eu la chance de traverser l’écran et d’approcher le jeu de données qui se cache derrière l’interface. Au-delà de son fonctionnement très simple, Elyze a été une base de données importante, ce qui lui a valu des critiques et l’a poussé à changer son système de collecte. Elle a été l’occasion pour les usagers de s’interroger quant à la sensibilité de certaines de leurs données, l’occasion également de réflechir au reste des données - parfois toutes aussi personnelles - qu’ils partagent avec d’autres plateformes.
 
