@@ -2,7 +2,7 @@
 # _La vie sociale des données - Enquête collective_
 ### Cette enquête, menée par Mathilde Frelon, Mateo Angillis, Margot Tasseau et Cathy Alves, porte sur l'étude des données collectées et de leurs enjeux à l'issue de l'usage de l'application Elyze, notamment lors des élections présidentielles de 2022. 
 
-<img src="https://images.rtl.fr/~c/2000v2000/rtl/www/1482439-l-application-elize-veut-amener-les-jeunes-a-se-mobiliser-lors-du-scrutin-predidentiel.png"
+<img src="https://images.rtl.fr/~c/2000v2000/rtl/www/1482439-l-application-elize-veut-amener-les-jeunes-a-se-mobiliser-lors-du-scrutin-predidentiel.png">
 
 Selon l’Insee, en 2017, moins de deux jeunes sur dix (entre 18 et 29 ans et inscrits sur listes électorales) avaient voté à tous les tours des élections législatives et présidentielle. Le « désamour » de la jeunesse pour la politique est bien réel et plus largement l’abstention des jeunes représente une menace pour la démocratie. 
 
