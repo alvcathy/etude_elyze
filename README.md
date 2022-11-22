@@ -27,6 +27,8 @@ Ces recherches nous ont permis de faire une analyse plus précise de la base de 
 
 ### Un concept innovant pensé par des jeunes et pour des jeunes
 
+<img src="22699182lpw-22699266-article-jpg_8488999_660x287 Grande.png">
+
 L’idée c’est un outil qui parle aux jeunes générations. Pour ce faire, les fondateurs, aidés par de nombreux bénévoles, pensent l’application au travers des codes de la nouvelle génération, avec une interface ludique, colorée et intuitive. Si Elyze prend rapidement le surnom de « Tinder de la présidentielle » c’est que son fonctionnement qui permet de faire matcher les utilisateurs avec des candidats est largement inspiré de l’application de rencontres. L’application reprend en effet le système de swipe qui fait la popularité de Tinder. 
 
 En balayant son écran vers la droite pour témoigner son accord et vers la gauche pour témoigner son désaccord, l’utilisateur donne son avis sur les propositions de campagne des candidats qui défilent aléatoirement devant lui (« ne pas participer aux Jeux Olympiques », « reconnaître le vote blanc », « supprimer la contribution à l'audiovisuel public »,…). L’application propose alors en parallèle un résultat avec les profils des candidats qui sont les plus proches des convictions de l’utilisateur et pour qui il pourrait voter, résultat qui s’affine à mesure que l’utilisateur répond aux questions. L’application affiche un score de fiabilité, de 20% pour 90 swipes et de 78% pour 350 swipes par exemple. (Le Figaro)
