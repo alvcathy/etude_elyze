@@ -185,7 +185,9 @@ Cette décision de recourir à un outil de la CEDP - et donc, un outil dont l’
 
 ## **Conclusion** 
 
-XXX COMPLETER XXX
+Grâce à nos lectures, notre sondage  mais surtout nos entretiens privilégiés nous avons pu appréhender l’application Elyze sous de multiples angles. Nous avons pu retracer l’histoire de ce projet, son ambition, ses valeurs. Mais nous avons également eu la chance de traverser l’écran et d’approcher le jeu de données qui se cache derrière l’interface. Au-delà de son fonctionnement très simple, Elyze a été une base de données importante, ce qui lui a valu des critiques et l’a poussé à changer son système de collecte. Elle a été l’occasion pour les usagers de s’interroger quant à la sensibilité de certaines de leurs données, l’occasion également de réflechir au reste des données - parfois toutes aussi personnelles - qu’ils partagent avec d’autres plateformes.
+
+Le manque de préparation et le succès retentissant et inattendu de l’application expliquent les lacunes dans la constitution du jeu de données ; ce travail nous a permis de les définir et les appréhender.
 
 
 ## **Merci** 🙂
