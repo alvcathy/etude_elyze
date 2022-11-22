@@ -78,9 +78,11 @@ Au-delà de cette synthétisation, le côté ludique de l’application soulève
 
 Lors de l’entretien, François Mari, nous a confié qu’il ne pensait pas avoir autant d’utilisateurs; n’étant pas développeur professionnel, de nombreux problèmes techniques sont survenus dans les premiers mois face au succès de l’application. 
 
-La première faille qu’à relevé Mathis Hammel, expert en cybersécurité, fut le fait qu’Emmanuel Macron était mise en avant. En effet, si nous avions deux candidats ex aequo dont l’actuel président, ce dernier arriverait en tête du podium. Ce bug a permis de mettre en évidence une limite de cette application. Effectivement, même si elle apparaissait neutre au yeux de la société, le résultat étant orienté techniquement pouvait influencer le vote de certaines personnes. 
+La première faille qu’à relevé Mathis Hammel, expert en cybersécurité, fut le fait qu’Emmanuel Macron était mise en avant. En effet, si nous avions deux candidats ex aequo dont l’actuel président, ce dernier arriverait en tête du podium. Ce bug a permis de mettre en évidence une limite de cette application. Effectivement, même si elle apparaissait neutre au yeux de la société, le résultat étant orienté techniquement pouvait influencer le vote de certaines personnes.
 
-<img width="295" alt="Un outil démocratique mis à mal par des problèmes techniques2" src="https://user-images.githubusercontent.com/115630265/203337921-f4fbe2a7-d221-4b9a-b0c6-526a284618a4.png">
+<p align="center">
+  <img width="295" alt="Un outil démocratique mis à mal par des problèmes techniques2" src="https://user-images.githubusercontent.com/115630265/203337921-f4fbe2a7-d221-4b9a-b0c6-526a284618a4.png">
+    </p>
 
 La deuxième faille était présente au sein du code source où il y avait des problèmes de sécurité, le même expert a pu ainsi apparaître en tant que candidat à la présidentielle. Ces deux bugs ont eu d’énormes retombées médiatiques et c’est dans ce contexte que plusieurs candidats dont Jean-Luc Mélenchon se sont emparés de ces problèmes de codages pour remettre en question la neutralité politique de l’application. Face à toutes ces polémiques, les deux entrepreneurs ont tout d’abord résolu les différents problèmes techniques. Puis, ils ont ouvert une adresse mail pour que les équipes de campagnes ainsi que les utilisateurs puissent apporter des changements au niveau de la formulation des différents éditos pour que cet outil soit le plus neutre et démocratique possible.  
 
