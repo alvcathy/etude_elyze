@@ -112,8 +112,8 @@ Les deux créateurs n’ont dans un premier temps pas été notifiés par l’or
 Certains internautes se sont également interrogés sur le stockage de ces informations sensibles sur  un serveur de l’application, chez Amazon Web Services (AWS), ce qui signifie que les autorités américaines pouvaient accéder à ces données sensibles en vertu notamment du Cloud Act. L’un des cofondateurs, Grégoire, contacté par l’AFP s’est défendu ainsi « Les données sont anonymes, l’application n’identifie individuellement aucun utilisateur ».
 
 <p align="center">
- <img width="https://user-images.githubusercontent.com/115630265/203343700-bc7ee3e9-df62-46f1-a458-698c432f0872.png">
-      </p>
+  <img src="https://user-images.githubusercontent.com/115630265/203343700-bc7ee3e9-df62-46f1-a458-698c432f0872.png">
+  </p>
 
 Si le feuilleton de presse s’est arrêté là, François Mari nous a appris que la CNIL s’était finalement prononcée à propos du jeu de données. Après étude, ils ont établi que malgré l’anonymat annoncé des données, dans un certain nombre de cas, les données couplées de genre, de date de naissance et le code postal pourraient suffire à identifier certains répondants par triangulation. 
 
