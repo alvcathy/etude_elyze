@@ -73,7 +73,7 @@ Cependant, même si cette dernière a été fortement utilisée, nous pouvons vo
   </p>
     
  
-### [Link](https://docs.google.com/forms/d/1emaGUTLBJRohZzPKVLnno1YwyJpJRufvjgVNAa40xxA/edit#responses) 
+[Link](https://docs.google.com/forms/d/1emaGUTLBJRohZzPKVLnno1YwyJpJRufvjgVNAa40xxA/edit#responses) and ![Image](https://user-images.githubusercontent.com/115630275/203407127-e7556d12-6694-4ca2-bff0-0022fa24ea6d.png)
 
 Une chose est sûre, si Elyze a permis à de nombreux jeunes de découvrir la politique et ses acteurs lors des dernières élections présidentielles, cet engouement sera moindre lors des prochaines élections comme le souligne notre sondage. 
 
