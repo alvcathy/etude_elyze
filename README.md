@@ -66,6 +66,10 @@ Si la base de données a finalement été effacée en raison de la pression méd
 
 Cependant, même si cette dernière a été fortement utilisée, nous pouvons voir que dans les urnes, les votants n’ont pas suivi le résultat attendus. En effet, dans notre sondage la plupart des personnes interrogées ne sont pas senties influencées par le résultat et par conséquent n’ont pas forcément voté le politique avec lequel ils avaient matchés. Si la plupart des sondés ont jugé l’application d’“utile”, “compréhensible”, “ludique”... de nombreux d’entre eux émettent des réserves : “attention à ne pas prendre les résultats au pied de la lettre”, “trop synthétique et limités”,  “tous les programmes ne sont pas justement retranscrit, certaines parties sont omises”, ….
 
+<p align="center">
+  <img src="https://user-images.githubusercontent.com/115630275/203395517-0b9cad1a-c9cc-4e4b-b44a-dff3e3a1c5b1.png">
+  </p>
+
 Une chose est sûre, si Elyze a permis à de nombreux jeunes de découvrir la politique et ses acteurs lors des dernières élections présidentielles, cet engouement sera moindre lors des prochaines élections comme le souligne notre sondage. 
 
 ## **2.Critiques & limites** 🙅‍♀️
