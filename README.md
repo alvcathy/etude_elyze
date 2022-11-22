@@ -57,6 +57,91 @@ Une chose est sûre, si Elyze a permis à de nombreux jeunes de découvrir la po
 
 ## **2.Critiques & limites**
 
+### “Une simplification des programmes qui reflète le mal être des électeurs”
+
+Au cours de notre entretien avec Dominique Frêlon, le maire de la commune de Paulmy nous a témoigné son inquiétude quant à une "simplification" des programmes des candidats sur l’application. Selon lui, celle-ci “reflète le mal-être des électeurs d'aujourd'hui”. En effet, si le travail de synthétisation réalisé sur l’application se révèle très efficace auprès des jeunes, ce “prémachâge” soulève aussi des questions importantes. Dans un monde où tout va plus vite, l’information se veut de plus en plus concise, brève, impactante. Mais sur un sujet aussi important que la politique, où le geste même de voter représente un réel pouvoir, n’est-il pas dangereux de s’informer de manière aussi rapide et sans rentrer dans la complexité des propositions, et des enjeux que ces dernières soulèvent ?
+
+Si l’application n’a pas vocation à orienter le vote des jeunes mais simplement à les aider à mieux comprendre et décrypter le paysage politique actuel, les fondateurs encouragent d’ailleurs les utilisateurs à ne pas se limiter à cette source d’information pour faire leur choix. Et pour cause, l’onglet “en savoir plus” qui apporte des précisions et des éléments de contexte pour chaque proposition ne suffit parfois pas à trancher une question complexe. Plus largement l’attrait des jeunes pour une application comme Elyze pourrait être révélateur d’une défiance de ces derniers envers le monde de la politique et de leur besoin de rendre ça plus accessible. 
+
+Au-delà de cette synthétisation, le côté ludique de l’application soulève lui aussi quelques questions. À ce sujet, Dominique Frêlon ne semble pas totalement convaincu et pense même que cette application “déshumanise” le monde dans lequel nous vivons : “Je prends cette application comme un jeu, à faire en famille ou entre amis. À la fin je m’interroge”. Peut-on traiter des sujets - aussi importants soient-ils - comme celui d’une élection, comme un jeu ? Si la question se pose il est important de noter tout de même que les fondateurs d’Elyze sont très clairs à ce sujet, ce n’est qu’un outil qui ne remplace ni les programmes ni les débats.  
+
+### Un outil démocratique mis à mal par des problèmes techniques 
+
+Lors de l’entretien, François Marie, nous a confié qu’il ne pensait pas avoir autant d’utilisateurs; n’étant pas développeur professionnel, de nombreux problèmes techniques sont survenus dans les premiers mois face au succès de l’application. 
+
+La première faille qu’à relevé Mathis Hammel, expert en cybersécurité, fut le fait qu’Emmanuel Macron était mise en avant. En effet, si nous avions deux candidats ex aequo dont l’actuel président, ce dernier arriverait en tête du podium. Ce bug a permis de mettre en évidence une limite de cette application. Effectivement, même si elle apparaissait neutre au yeux de la société, le résultat étant orienté techniquement pouvait influencer le vote de certaines personnes. 
+
+La deuxième faille était présente au sein du code source où il y avait des problèmes de sécurité, le même expert a pu ainsi apparaître en tant que candidat à la présidentielle. Ces deux bugs ont eu d’énormes retombées médiatiques et c’est dans ce contexte que plusieurs candidats dont Jean-Luc Mélenchon se sont emparés de ces problèmes de codages pour remettre en question la neutralité politique de l’application. Face à toutes ces polémiques, les deux entrepreneurs ont tout d’abord résolu les différents problèmes techniques. Puis, ils ont ouvert une adresse mail pour que les équipes de campagnes ainsi que les utilisateurs puissent apporter des changements au niveau de la formulation des différents éditos pour que cet outil soit le plus neutre et démocratique possible.  
+
+### Une gestion controversée des données personnelles
+
+La deuxième vague de critiques qu'ont essuyé les créateurs de l’application tient aux données elles-mêmes. Face au succès rencontré par Elyze, François Mari nous a expliqué s’être rapidement retrouvé avec beaucoup de données brutes : après 50 millions de swipes, les 3 millions d’utilisateurs avaient généré des dizaines de gigas de données. L’application ne nécessitait pas de compte ni d’identifiants mais suggérait de renseigner son genre, sa date de naissance et son code postal - de manière facultative. 
+
+Les créateurs et les utilisateurs pouvaient considérer que les données générées par l’application étaient anonymes. Ils avaient par ailleurs clairement annoncé qu’un usage commercial pourrait être fait de celles-ci et les utilisateurs ont accepté les conditions d’utilisation générales qui le stipulait également. Ces informations bien que sommaires seraient néanmoins précieuses pour les créateurs en ce sens qu'elles pourraient permettre de créer une typologie des électeurs de tel ou tel âge, de telle ou telle régions, de mesurer la sympathie des utilisateurs envers les mesures proposées selon ces critères etc… Flairant le valeur des ces données à très grande échelle (même si non représentatives de la population), le groupe BVA (cabinet d’études et conseil spécialiste de l'analyse comportementale, reconnue comme l'un des leaders secteur) a très rapidement contacté les créateurs pour discuter de ce jeu de données - François et Grégoire n’ont pas donné suite. 
+
+Nous avons interrogé  Adélaïde Zulfikarpasic, la directrice générale de BVA France, elle même intéressée par les problématiques d’abstention ou de votes blanc et autrice de « Le vote blanc : abstention civique ou expression politique ? », Revue française de science, 2001, ou encore « Les Français sur le fil de l’engagement » L’Aube, Fondation Jean-Jaurès, 2022. Elle nous a confié que XXX COMPLETER XXX
+
+En janvier dernier, alertée par des internautes quant à l’existence de ce jeu de données massif, la CNIL (Commission Nationale de l’Information et des Libertés) a examiné son fonctionnement en détail indiquant qu’elle se réservait le droit de faire usage de ses pouvoirs répressifs. La commission a également déclaré à l’AFP que « de manière générale, ce type d’applications doit prévoir des garanties fortes pour protéger les données de ses utilisateurs ». 
+
+Les deux créateurs n’ont dans un premier temps pas été notifiés par l’organisme et l’ont appris en lisant Le Monde. Le principal questionnement était de savoir si l’application respectait ou non le RGPD (Règlement Général sur la Protection des Données). En effet, il stipule qu’en principe, la collecte des données révélant les opinions politiques est interdite, sauf si le consentement explicite des personnes est recueilli - ce qui a priori était le cas. 
+
+Certains internautes se sont également interrogés sur le stockage de ces informations sensibles sur  un serveur de l’application, chez Amazon Web Services (AWS), ce qui signifie que les autorités américaines pouvaient accéder à ces données sensibles en vertu notamment du Cloud Act. L’un des cofondateurs, Grégoire, contacté par l’AFP s’est défendu ainsi « Les données sont anonymes, l’application n’identifie individuellement aucun utilisateur ».
+
+Si le feuilleton de presse s’est arrêté là, François Mari nous a appris que la CNIL s’était finalement prononcée à propos du jeu de données. Après étude, ils ont établi que malgré l’anonymat annoncé des données, dans un certain nombre de cas, les données couplées de genre, de date de naissance et le code postal pourraient suffire à identifier certains répondants par triangulation. 
+
+Une étude américaine datant de 2000 (L. Sweeney, « Simple Demographics Often Identify People Uniquely »,Carnegie Mellon University, Data Privacy Working Paper 3, Pittsburgh, 2000) assurait que ces trois données recoupées à d’autres bases accessibles étaient identifiantes dans 87% des cas, faisant d'elles des DCP (Données à Caractère Personnel). Si on peut voir une différence entre une donnée potentiellement identifiante ou effectivement identifiée, le RGPD estime que l’identification n’a pas besoin d’être réalisée pour la qualifier de DCP en tant que telle ("toute information se rapportant à une personne identifiée ou identifiable", art. 4.1 RGPD). Ce qui importe, c’est son origine, pas son exploitation. Du moment qu'une information est issue d'un individu, et à moins d'avoir subi un traitement annulant son caractère individuel, elle est constitutive d'une DCP, même si les moyens de réidentification ne nous apparaissent pas comme évidents ou plausibles.
+
+La CNIL s’en est tenue à ces explications, et pour endiguer la polémique et apaiser leurs détracteurs, les deux cofondateurs de Elyze ont alors pris la décision d’effacer la totalité du dataset. Une nouvelle version de l’application ne récoltant plus d’autres données que les « swipes » a été mise en ligne et le code source de l’application a été rendu public. Cette décision était d’autant plus judicieuse que Grégoire Cazcarra a rejoint le gouvernement en la qualité de conseiller d’Olivier Véran, laissant potentiellement soupçonner un conflit d'intérêt.
+
+# **3. Données et visualisation**
+
+### Vers un meilleur jeu de données
+
+François Mari nous a confié que si c’était à refaire, la première chose qu’il ferait serait de prendre un avocat pour faire face à toutes les situations auxquelles ils ont été confrontés. Cela tient au fait que l’application a eu beaucoup plus de succès qu’ils ne l'imaginaient, mais les Conditions Générales de Vente avaient été rédigées par des camarades en deuxième année de droit, l’application codée par lui-même, la communication gérée par Grégoire… C’est l’aspect professionnel qui leur a manqué et qui les a poussés à détruire les données.
+
+Il nous a également soufflé que l’aventure ne s’arrêterait pas là : ce qu’ils considèrent toujours comme un outil démocratique puissant pour amener la jeunesse aux urnes pourrait s’exporter dans chaque démocratie. Avec pour principal obstacle la connaissance et le travail éditorial des fiches et des questions nécessitant des locaux, et que le bouche à oreille qui les a propulsé dans les médias ne sera peut-être pas le même ailleurs. Mais les élections européennes pourraient être l’occasion de mettre à profit leur application révisée. Et dans ce cadre, la question se pose de ce qui pourrait ou aurait pu être fait d’un tel  jeu de données. Quelle utilisation ? Quel traitement ? Quelle visualisation envisager ?
+
+### Un travail de collecte mené en amont avec précaution
+
+La collecte de données relatives aux opinions politiques étant considérées comme des données sensibles, elle fait l’objet d’un régime juridique stricte par la CNIL. De fait, malgré que le règlement général sur la protection des données personnelles (RGPD) s’applique sur cette collecte, de grands principes sont à respecter dans la collecte de ces données sensibles. Pour que le traitement de ces données (consultation, extraction, enregistrement, enrichissement…) soit loyal et licite, la CNIL souligne dans un premier temps qu’il est nécessaire de respecter certaines conditions.
+
+Tout d’abord, il est primordial que l’application fournisse, dès sa première utilisation par les utilisateurs, les informations au sujet de la finalité de la collecte de ses données; chose que les fondateurs d’Elyze ont effectué. Néanmoins, il serait pertinent d’envisager à l’avenir de communiquer davantage sur ce point et ce, de façon totalement transparente et éclairée, en partageant notamment auprès des individus les objets d’études qui seront étudiés par un institut de recherche en s’appuyant sur ces données recueillies. De plus, présenter le ou les instituts de recherche qui auront accès à des données constituerait un gage de confiance. Ainsi, il serait nécessaire de faire stipuler cet élément éclairé avant l’étape d’acceptation des Conditions Générales; les utilisateurs pourront ainsi accepter ou refuser que leurs données soient étudiées dans le cadre de ces travaux de recherches. 
+
+Ensuite,  comme l’indique la CNIL, une base légale adaptée doit être établie pour l’application Elyze; la Commission nationale de l'informatique et des libertés propose deux options. D’une part, obtenir le consentement des personnes est la solution recommandée par la CNIL. François Mari et Grégoire Cazcarra ont opté pour cette option, en proposant aux utilisateurs de l’application Elyze d’accepter leurs Conditions Générales.
+D’autre part, définir un autre type de base légale est possible, reposant sur la mise en avant de l’intérêt légitime de l’organisation à procéder à un tel traitement. Mais cette deuxième option est toutefois sous réserve de certaines conditions, listées par la CNIL :
+
+- “Justifier du respect de la condition de « nécessité » en s’assurant notamment qu’il n’existe pas de moyen moins intrusif pour la vie privée d’atteindre cet objectif que de mettre en œuvre le traitement envisagé” ;
+- “Déterminer de façon suffisamment claire et précise l’intérêt qu’il poursuit, qui devra être réel et présent, et non fictif ;”
+- “S’assurer que le traitement ne heurte pas les droits et les intérêts des personnes dont les données sont traitées, compte tenu de leurs attentes raisonnables. En pratique, cela revient à répondre à la question suivante : les personnes concernées pouvaient-elles s’attendre à un tel traitement et à ses conséquences ? Pour y répondre, le responsable de traitement doit opérer une mise en balance entre les droits et intérêts en cause” ;
+- “Mettre en œuvre des mesures compensatoires ou additionnelles pour limiter les impacts du traitement sur les personnes concernées”.
+
+Mais cette deuxième condition semble difficilement applicable dans le cas d’Elyze, dont l’étude de ses données ne semble pas présenter un intérêt légitime qui remplirait les conditions ci-dessus.
+
+Par ailleurs, étant donné qu’il s’agit de données sensibles, puisque les données récoltées permettent de connaître les opinions politiques des utilisateurs de l’application, d’autres principes sont à respecter dans ce cas. La CNIL souligne que “le traitement de données sensibles, telles que les opinions politiques, réelles ou supposées des personnes est en principe interdit”. Néanmoins, il est possible d’envisager leur traitement si Elyze remplit deux conditions.
+
+La première condition consiste à “s’assurer que l’application peut justifier de l’une des exceptions prévues par le RGPD et la loi Informatique et Libertés” ; L’une de ces exceptions, prévue par le Comité européen de la protection des données (CEPD), pourrait être pertinente pour régler le problème posé par la collecte de données de l’application Elyze. De fait, cette exception de la CEPD concerne le cas où les données auraient été «manifestement rendues publiques par la personne concernée ». Autrement dit, il serait pertinent de songer à demander le consentement de chaque utilisateur pour que celui-ci autorise que ses données sensibles relatives à ses opinions politiques soient rendues publiques, en lui assurant toutefois que l’accessibilité de ces données serait en réalité pour un public de chercheurs (des instituts de recherche). Pour cela, une case à cocher ou un bouton informant la personne concernée que les informations sont rendues publiques est recommandée par la CEPD. De plus, la CEPD  ajoute que cela doit toutefois s’accompagner d’une base légale (une des conditions de la réglementation RGPD présentée ci-dessus).
+
+### Pour optimiser leur traitement en aval 
+
+L’autre principe à respecter dans le cas de la collecte de données sensibles, prévue par la CEPD, peut contribuer à optimiser le traitement des données en aval de l’application Elyze, celle proposant un moyen de collecter de ces données qui peut assurer la confiance des utilisateurs. Ce second principe consiste en effet à “réaliser des formalités préalables auprès de la CNIL (comme la réalisation d’une AIPD, le cas échéant, soumise à consultation préalable de la CNIL).” 
+
+Cette idée de suivre la méthode AIPD (Analyse d’Impact sur la Protection des Données), développée par la CNIL, peut sembler être une solution pertinente pour Elyze. De fait, cette méthode consiste pour une organisation à recourir à l’outil PIA, pensé par la Commission nationale de l'informatique et des libertés, pour traiter les données de ses utilisateurs. Le logiciel open source PIA propose en effet une interface qui sécurise et centralise la collecte, tout en facilitant le traitement de données telles que prévues par la réglementation RGPD. Comme l’indique la CNIL, ce logiciel destiné est adaptable à tout écosystème informatique: il pourra en effet être ajouté à des fonctionnalités ou intégré à des outils déjà disponibles en interne (par exemple, un back office que pourrait construire l’équipe d’Elyze).
+
+METTRE IMAGE
+
+Recourir à cet outil qui représenterait non seulement un moyen pour l’équipe d’Elyze de pouvoir gérer les dizaines gigas de données que l’application pourra générer, tout en gagnant la confiance des utilisateurs et des potentiels détracteurs de l’application, qui seront informés sur le fait que leurs données jugées sensibles seront certes collectées, mais ceci dans un logiciel développé et encadré par l’unique autorité française chargée de la protection de leurs données, la CNIL.
+
+Par ailleurs, l’accès aux données recueillies sur l’outil PIA serait autorisé pour les instituts de recherche proposant un projet d’étude qui sera accepté en amont par l’équipe Elyze, la CNIL et bien entendu, par les utilisateurs qui auront donné leur consentement à l’étape spécialement dédiée à cet effet, comme nous l’avons évoqué précédemment.
+
+Cette décision de recourir à un outil de la CEDP - et donc, un outil dont l’autorité se restreint au règlement européen - signifie que le logiciel PIA pourrait être utilisé dans les pays membres de l’UE dans lequel s’applique la RGPD. Cependant, il sera nécessaire de s’adapter aux différentes réglementations des pays hors UE dans lesquelles François Mari, Grégoire Cazcarra et leur équipe souhaiteront implanter l’application Elyze. 
+
+## ***Conclusion**
+
+XXX COMPLETER XXX
+
+
+
+
 
 
 
